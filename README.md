@@ -47,12 +47,7 @@ API Endpoints
 POST /api/posts/
 Description: Submit a new post about a natural disaster situation.
 Request Body:
-json
-{
-    "title": "Post Title",
-    "description": "Detailed description of the situation",
-    "videoUrl": "https://example.com/video.mp4"
-}
+
 Response: Returns the newly created post object.
 GET /api/posts/
 Description: Fetch all posts.
