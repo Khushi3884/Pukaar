@@ -20,7 +20,6 @@ MongoDB setup (locally or through a cloud service like MongoDB Atlas).
 Installation
 Backend
 Clone the repository for the backend:
-git clone https://github.com/your-username/pukar-backend.git
 Navigate to the backend directory:
 cd pukar-backend
 Install dependencies:
@@ -33,7 +32,6 @@ Start the backend server:
 npm start
 Frontend
 Clone the repository for the frontend:
-git clone https://github.com/your-username/pukar-frontend.git
 Navigate to the frontend directory:
 cd pukar-frontend
 Install dependencies:
